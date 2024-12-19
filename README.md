@@ -6,6 +6,7 @@ Self-cultivation of Computer Vision Algorithm Engineers
 - [Algorithms](#algorithms)
 - [Engineering](#engineering)
 - [Mathematics](#mathematics)
+- [Ideology](#ideology)
 
 ## Algorithms
 - Data Structures and Algorithms
@@ -48,3 +49,5 @@ Self-cultivation of Computer Vision Algorithm Engineers
 - Linear Algebra
 - Probability Theory
 - Calculus
+
+## Ideology
