@@ -1,5 +1,5 @@
 <h1 align="center">
-Self-cultivation of Computer Vision Algorithm Engineers
+Self-Cultivation of Computer Vision Algorithm Engineers
 </h1>
 
 ## 📜 Content
