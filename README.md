@@ -8,7 +8,7 @@ Self-Cultivation of Computer Vision Algorithm Engineers
 - [Mathematics](#mathematics)
 - [Ideology](#ideology)
 
-## ⚡ Algorithms
+## Algorithms
 - Data Structures and Algorithms
 - Digital Image Processing
 - Machine Learning
@@ -30,7 +30,7 @@ Self-Cultivation of Computer Vision Algorithm Engineers
     - [ ] Dehaze
     - [ ] HDR 
 
-## 🔨 Engineering
+## Engineering
 - Programming Language
   - [ ] Python
   - [ ] C/C++ 
@@ -45,9 +45,9 @@ Self-Cultivation of Computer Vision Algorithm Engineers
 - Deployment
   - [ ] TensorRT
 
-## 📈 Mathematics
+## Mathematics
 - Linear Algebra
 - Probability Theory
 - Calculus
 
-## 💡 Ideology
+## Ideology
