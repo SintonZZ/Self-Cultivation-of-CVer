@@ -14,7 +14,7 @@ Self-Cultivation of Computer Vision Algorithm Engineers
 - Machine Learning
 - Deep Learning
   - [ ] CNN
-  - [ ] RNN
+  - [ ] RNN->LSTM->GRU
   - [ ] GAN
   - [ ] Transformer
   
