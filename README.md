@@ -44,6 +44,7 @@ Self-Cultivation of Computer Vision Algorithm Engineers
   - [ ] Quantization
 - Deployment
   - [ ] TensorRT
+  - [ ] CUDA/Triton
 
 ## Mathematics
 - Linear Algebra
