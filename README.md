@@ -45,7 +45,6 @@ Self-Cultivation of Computer Vision Algorithm Engineers
 - Deployment
   - [ ] TensorRT
   - [ ] CUDA/Triton
-  - [ ] Eigen
 
 ## Mathematics
 - Linear Algebra
