@@ -23,6 +23,7 @@ Self-Cultivation of Computer Vision Algorithm Engineers
     - [ ] Recognition
     - [ ] Semantic Segmentation (2D/3D)
     - [ ] Detection (2D/3D)
+    - [ ] Size Measurement
   - Low-level Vision
     - [ ] Denoise
     - [ ] Super-Resolution
