@@ -10,13 +10,11 @@ Self-Cultivation of Computer Vision Algorithm Engineers
 
 ## Algorithms
 - Data Structures and Algorithms
-- Digital Image Processing
 - Machine Learning
 - Deep Learning
   - [ ] CNN
-  - [ ] RNN->LSTM->GRU
+  - [ ] RNN
   - [ ] Transformer
-  - [ ] GAN
   
 - Computer Vision
   - High-level Vision
@@ -38,14 +36,14 @@ Self-Cultivation of Computer Vision Algorithm Engineers
 - Linux
   - [ ] Shell
   - [ ] Git 
-- OpenCV
+- OpenCV/PCL
 - Model Compression
   - [ ] Knowledge Distillation
   - [ ] Pruning
   - [ ] Quantization
 - Deployment
   - [ ] TensorRT
-  - [ ] CUDA/Triton
+  - [ ] CUDA/Triton/Eigen
 
 ## Mathematics
 - Linear Algebra
