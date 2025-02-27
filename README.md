@@ -11,6 +11,10 @@ Self-Cultivation of Computer Vision Algorithm Engineers
 ## Algorithms
 - Data Structures and Algorithms
 - Machine Learning
+  - [ ] Classification
+  - [ ] Regression
+  - [ ] Clustering
+  - [ ] Dimensionality Reduction
 - Deep Learning
   - [ ] CNN
   - [ ] RNN
